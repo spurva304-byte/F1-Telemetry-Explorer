@@ -40,4 +40,4 @@ Produces a speed comparison graph of the performance of the various drivers alon
 ## ▶️ How to Run
 ```bash
 pip install fastf1 matplotlib.
-python f1python.py
+python f1_telemetry_explorer.py
