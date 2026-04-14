@@ -34,6 +34,8 @@ The project will give you the opportunity to compare the performance of various 
 
 ## 📊 Output
 Produces a speed comparison graph of the performance of the various drivers along the track.
+<img width="492" height="615" alt="image" src="https://github.com/user-attachments/assets/7068ec6f-1e72-4528-bea8-60cab311e59c" />
+
 
 ---
 
